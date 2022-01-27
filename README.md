@@ -1,6 +1,7 @@
 # Todo-BE
 
 This the backend project for my todo mobile application. Which can be found [here](https://github.com/hknakn/Todo-FE).
+This project uses Express.js and MongoDB.
 
 #### Requirements
 - [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
